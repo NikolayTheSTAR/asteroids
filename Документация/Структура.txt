@@ -1,0 +1,34 @@
+* ScoreManager
+    * score
+    * addScore()
+    * removeScore()
+
+* LoadManager
+    * restart()
+
+* EnemiesCreator
+    * generateEnemy()
+
+* Player
+    * speed
+    * moveVector
+    * move()
+    * shot()
+    * die()
+
+* Bullet
+    * speed
+    * move()
+    * destroy()
+
+* Enemies
+    * speed
+    * scoreHeft
+    * moveVector
+    * move()
+    * destroy()
+
+* Asteroid : Enemies
+    * size
+
+* UFO  : Enemies
