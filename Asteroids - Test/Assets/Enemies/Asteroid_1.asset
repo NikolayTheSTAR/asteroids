@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbd267ec24d884914baa1d7a839b7cb8, type: 3}
+  m_Name: Asteroid_1
+  m_EditorClassIdentifier: 
+  mainSprite: {fileID: 2619520171403366046, guid: 1a08bae0abd6a491ba0319e5465e239f,
+    type: 3}
+  size: 2
+  colliderRadius: 0.35
+  speed: 2
+  scoreHeft: 100
+  flashObject: {fileID: 3421143830018503979, guid: fd06c8e568fb643bfb0d552c6625ea9b,
+    type: 3}
