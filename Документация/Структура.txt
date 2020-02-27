@@ -28,7 +28,7 @@
     * move()
     * destroy()
 
-* Asteroid : Enemies
-    * size
+    * Asteroid : Enemies
+        * size
 
-* UFO  : Enemies
+    * UFO  : Enemies
